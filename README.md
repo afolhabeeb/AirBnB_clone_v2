@@ -137,5 +137,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <h3>Authors</h3>
 
-Odunayo Dauda [GitHub](https://GitHub.com/odunayo) | [Email](vodunayo511@gmail.com)
+Odunayo Dauda [GitHub](https://GitHub.com/odunayo-dauda) | [Email](vodunayo511@gmail.com)
 Habeeb A. Ojedokun [GitHub](https://GitHub.com/afolhabeeb) | [Email](ojefolabi@yahoo.com)
